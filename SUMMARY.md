@@ -1,4 +1,4 @@
 # Summary
 
-* Week0
+* [Week0](week0.md)
 
